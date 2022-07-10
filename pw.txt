@@ -20,5 +20,5 @@ root/123456
 nuaazyf@163.com
 Zyf246579.
 
-master
-Welcome to NanJing City! -hot-fix  
+hot-fix
+Welcome to NanJing City! -hot-fix
